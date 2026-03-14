@@ -1,0 +1,89 @@
+.facilities-section h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.facilities-tabs {
+    background-color: white;
+    border-radius: 12px;
+    padding: 8px;
+    font-size: 14px;
+    display: flex;
+    gap: 2px;
+    margin-bottom: 15px;
+    width: 73%;
+}
+
+.facilities-tab {
+    height: 42px;
+    width: 140px;
+    border-radius: 12px;
+    background-color: white;
+    border: 0px;
+    color: #666;
+    cursor: pointer;
+}
+
+.facilities-tab.active {
+    background-color: #007B9D;
+    color: white;
+    border-color: #007B9D;
+}
+
+.hotel-facilities {
+    background-color: white;
+    border-radius: 12px;
+    padding: 15px;
+    margin-bottom: 30px;
+    width: 73%;
+}
+
+.facilities-content {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ddd;
+    gap: 0px;
+}
+
+.info-row {
+    display: flex;
+    gap: 0px;
+    padding: 0px;
+    border-bottom: 1px solid #ddd;
+    font-size: 12px;
+}
+
+.info-icon {
+    flex: 0 0 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.info-icon img {
+    width: 18px;
+    height: 18px;
+}
+
+.info-text {
+    width: 30%;
+    background-color: #F8F8F8;
+    padding: 15px;
+    display: flex;
+    align-items: start;
+}
+
+.info-text strong {
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.info-text p {
+    font-size: 14px;
+    color: #666;
+    margin: 5px 0;
+}

@@ -1,0 +1,65 @@
+/* Глобальные стили */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f5f7fa;
+}
+
+.container {
+  width: 1300px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Утилиты */
+.error-message {
+  background: #ffebee;
+  color: #c62828;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  margin: 20px;
+}
+
+/* Плавающие кнопки */
+.floating-buttons {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.floating-btn {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.floating-btn.green {
+  background-color: #28a745;
+  color: white;
+}
+
+.floating-btn.blue {
+  background-color: #0096D6;
+  color: white;
+}
+
+.floating-btn img {
+  width: 24px;
+  height: 24px;
+}

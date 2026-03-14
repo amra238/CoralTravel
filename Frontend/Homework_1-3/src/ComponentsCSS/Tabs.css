@@ -1,0 +1,26 @@
+.tabs {
+    display: flex;
+    gap: 30px;
+    padding: 15px 0;
+    height: 50px;
+    border-bottom: 1px solid #eee;
+}
+
+.tabs img {
+    height: 30px;
+    width: 30px;
+}
+
+.tab {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.tab.active {
+    color: #007B9D;
+    border: 2px #007B9D;
+}

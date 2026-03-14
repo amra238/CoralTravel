@@ -1,0 +1,53 @@
+.auth-modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.auth-modal-content {
+    background: white;
+    padding: 20px;
+    width: 300px;
+    border-radius: 8px;
+}
+
+.auth-modal-content form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.auth-modal-content input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.auth-modal-content button {
+    width: 100%;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.auth-modal-content button[type="submit"] {
+    background: #007BFF;
+    color: white;
+}
+
+.auth-modal-content button[type="button"] {
+    background: #6c757d;
+    color: white;
+    margin-top: 10px;
+}

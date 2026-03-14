@@ -1,0 +1,31 @@
+.header {
+    background-color: white;
+    height: 310px;
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.logo img {
+    height: 40px;
+}
+
+.breadcrumb {
+    padding: 10px 0;
+    font-size: 14px;
+    color: #666;
+}
+
+.breadcrumb a {
+    color: #444;
+    text-decoration: none;
+}
+
+.breadcrumb strong {
+    color: #333;
+}

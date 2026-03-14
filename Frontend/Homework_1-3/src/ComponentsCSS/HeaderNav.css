@@ -1,0 +1,27 @@
+.header--nav--icon {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: -30px;
+}
+
+.header-nav ul {
+    display: flex;
+    list-style: none;
+    gap: 35px;
+}
+
+.header-links li {
+    margin-left: 20px;
+    position: relative;
+}
+
+.header-links a {
+    text-decoration: none;
+    color: #333;
+    font-size: 12px;
+}
+
+.header-links a:hover {
+    color: #007bff;
+}
