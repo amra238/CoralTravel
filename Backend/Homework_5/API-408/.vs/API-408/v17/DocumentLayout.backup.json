@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amirg\\source\\repos\\API-408\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E066BA9A-D7AD-4EDF-AE5C-CCD3ED11C471}|API-408\\API-408.csproj|c:\\users\\amirg\\source\\repos\\api-408\\api-408\\api-408.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E066BA9A-D7AD-4EDF-AE5C-CCD3ED11C471}|API-408\\API-408.csproj|solutionrelative:api-408\\api-408.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E066BA9A-D7AD-4EDF-AE5C-CCD3ED11C471}|API-408\\API-408.csproj|c:\\users\\amirg\\source\\repos\\api-408\\api-408\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E066BA9A-D7AD-4EDF-AE5C-CCD3ED11C471}|API-408\\API-408.csproj|solutionrelative:api-408\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E066BA9A-D7AD-4EDF-AE5C-CCD3ED11C471}|API-408\\API-408.csproj|c:\\users\\amirg\\source\\repos\\api-408\\api-408\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E066BA9A-D7AD-4EDF-AE5C-CCD3ED11C471}|API-408\\API-408.csproj|solutionrelative:api-408\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E066BA9A-D7AD-4EDF-AE5C-CCD3ED11C471}|API-408\\API-408.csproj|c:\\users\\amirg\\source\\repos\\api-408\\api-408\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E066BA9A-D7AD-4EDF-AE5C-CCD3ED11C471}|API-408\\API-408.csproj|solutionrelative:api-408\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API-408.http",
+              "DocumentMoniker": "C:\\Users\\amirg\\source\\repos\\API-408\\API-408\\API-408.http",
+              "RelativeDocumentMoniker": "API-408\\API-408.http",
+              "ToolTip": "C:\\Users\\amirg\\source\\repos\\API-408\\API-408\\API-408.http",
+              "RelativeToolTip": "API-408\\API-408.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-28T08:29:45.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\amirg\\source\\repos\\API-408\\API-408\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "API-408\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\amirg\\source\\repos\\API-408\\API-408\\Controllers\\NotificationController.cs*",
+              "RelativeToolTip": "API-408\\Controllers\\NotificationController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:47:19.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\amirg\\source\\repos\\API-408\\API-408\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API-408\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\amirg\\source\\repos\\API-408\\API-408\\WeatherForecast.cs",
+              "RelativeToolTip": "API-408\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:45:56.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amirg\\source\\repos\\API-408\\API-408\\Program.cs",
+              "RelativeDocumentMoniker": "API-408\\Program.cs",
+              "ToolTip": "C:\\Users\\amirg\\source\\repos\\API-408\\API-408\\Program.cs*",
+              "RelativeToolTip": "API-408\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:42:56.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
